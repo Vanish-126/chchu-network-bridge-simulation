@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chchu-network-bridge-simulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chchu_network_bridge_simulation_jar</output-path>
+    <root id="archive" name="chchu-network-bridge-simulation.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="chchu-network-bridge-simulation" />
+    </root>
+  </artifact>
+</component>
